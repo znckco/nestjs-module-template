@@ -28,12 +28,10 @@ $ npm install --save nextjs-module-template
 // some examples
 ```
 
-
-
 ## Stay in touch
 
-* Author - [Rahul Kadyan](https://znck.me)
-* Twitter - [@znck0](https://twitter.com/znck0)
+- Author - [Rahul Kadyan](https://znck.me)
+- Twitter - [@znck0](https://twitter.com/znck0)
 
 ## License
 

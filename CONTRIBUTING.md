@@ -126,7 +126,6 @@ You will need Node.js [LTS version](https://nodejs.org/en/about/releases/) and [
 $ pnpm install
 ```
 
-
 ### <a name="common-scripts"></a>Commonly used NPM scripts
 
 ```bash
